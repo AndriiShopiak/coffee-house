@@ -1,4 +1,4 @@
-import products from "./products.json" assert {type: "json"}
+import products from "./products.json" with {type: "json"}
 const cardsArr = [
     `<div class="flex__blocks">
     <div class="flex__blocks_block block">
